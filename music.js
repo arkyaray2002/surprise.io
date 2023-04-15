@@ -1,12 +1,12 @@
-const music1=new Audio("Music\Bondhu Chol - 01.mp3")
-const music2=new Audio("Music\Tera Yaar Hoon Main - 01.mp3")
-const music3=new Audio("Music\Yaara Teri Yaari Ko - 01.mp3")
-const music4=new Audio("Music\Yeh Dosti - 01.mp3")
-const music5=new Audio("Music\Yaara Teri Yaari - 01.mp3")
-const music6=new Audio("Music\Bondhu Chol - 02.mp3")
-const music7=new Audio("Music\Tera Yaar Hoon Main - 02.mp3")
-const music8=new Audio("Music\Yaaron - 01.mp3")
-const music9=new Audio("Music\Yaara Teri Yaari Ko - 02.mp3")
+const music1=new Audio("Music/Bondhu Chol - 01.mp3")
+const music2=new Audio("Music/Tera Yaar Hoon Main - 01.mp3")
+const music3=new Audio("Music/Yaara Teri Yaari Ko - 01.mp3")
+const music4=new Audio("Music/Yeh Dosti - 01.mp3")
+const music5=new Audio("Music/Yaara Teri Yaari - 01.mp3")
+const music6=new Audio("Music/Bondhu Chol - 02.mp3")
+const music7=new Audio("Music/Tera Yaar Hoon Main - 02.mp3")
+const music8=new Audio("Music/Yaaron - 01.mp3")
+const music9=new Audio("Music/Yaara Teri Yaari Ko - 02.mp3")
 
 function playmusic1(){
 	music1.play();
