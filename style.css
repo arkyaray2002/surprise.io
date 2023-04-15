@@ -24,6 +24,13 @@ h2{
     padding: 0;
 }
 
+body {
+  background-image: url('https://thumbs.dreamstime.com/b/happy-group-friends-family-dog-cat-jumping-together-sunset-water-reflection-30199342.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
 img{
     padding-left: 50px;
     padding-right: 50px;
